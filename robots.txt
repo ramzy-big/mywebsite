@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ramzy-big.github.io/mywebsite/sitemap.xml
